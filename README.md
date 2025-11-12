@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Katla Mallikarjun
+# Hi, I'm Katla Mallikarjun👋
+🚀 Student | JAVA & ML Enthusiast | AWS Explorer 
 
-🎓 Final-year B.Tech student @ CMR Engineering College  
 💻 Focused on Java, Spring Framework, and Cloud Computing (AWS)  
 🚀 Passionate about building intelligent backend systems and cloud platforms  
-🌱 Currently working on: AI-powered Video Streaming System  
-📫 Reach me at: [LinkedIn](your-link) | [Email](mailto:your@email.com)
+🌱 Currently working on: A SUSPICIOUS FINANCIAL TRANSACTION DETECTION MODEL USING BOOSTING TECHNIQUES  
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/mallikarjun-katla-7a03432b6/) | [Email](katlamallikarjun3@gmail.com)
