@@ -1,5 +1,5 @@
 # Hi, I'm Katla Mallikarjun👋
-🚀 Student | JAVA & ML Enthusiast | AWS Explorer 
+🚀 Recent Graduate | JAVA & ML Enthusiast | AWS Explorer 
 
 💻 Focused on Java, Spring Framework, and Cloud Computing (AWS)  
 🚀 Passionate about building intelligent backend systems and cloud platforms  
